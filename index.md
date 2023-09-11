@@ -1,4 +1,4 @@
-## <mika virkkula> web-tehtävä
+## Mika Virkkula web-tehtävä
 
 **Italics and Bold**
 
